@@ -10,14 +10,14 @@ Here you will find dashboards spanning diverse sectors, including **airline cust
 ## 🚀 Featured Projects
 
 | Project / Dashboard | Description & Insights | Key Techniques |
-| :--- | :--- | :--- |
-| **[✈️ British Airline Review Analysis](https://public.tableau.com/app/profile/hsiang.ying.yu/viz/BritishAirlineReview_17638788008680/Dashboard1)**<br>*(Customer Reviews & Ratings)* | **Goal:** Analyze passenger feedback to identify patterns in service ratings and customer satisfaction. |  |
----
+| --- | --- | --- |
+| **[✈️ British Airline Review Analysis](https://public.tableau.com/app/profile/hsiang.ying.yu/viz/BritishAirlineReview_17638788008680/Dashboard1)**<br>*(Customer Reviews & Ratings)* | Analyzed customer reviews to uncover key drivers of satisfaction. Visualized service ratings to identify categories of dissatisfaction.<br> | Data Cleaning & Preparation, Interactive Dashboards, Geospatial Analysis. |
+
 
 ## 📬 Contact & Connect
 
 I am a Data Scientist & Industrial Engineer passionate about uncovering stories hidden within complex datasets. I am always open to discussing data visualization, operations research, or new opportunities.
 
-* **💼 LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/)
-* **📧 Email:** [your.email@example.com](mailto:your.email@example.com)
-* **📊 Tableau Public:** [public.tableau.com/profile/yourname](https://public.tableau.com/s/)
+* **💼 LinkedIn:** [linkedin.com/in/hsiang-ying-yu](https://www.linkedin.com/in/hsiang-ying-yu/)
+* **📧 Email:** [mittyu@alumni.stanford.edu](mailto:mittyu@alumni.stanford.edu)
+* **📊 Tableau Public:** [public.tableau.com/profile/hsiang.ying.yu](https://public.tableau.com/app/profile/hsiang.ying.yu)
